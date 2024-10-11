@@ -1,19 +1,19 @@
-# Fran Camargo - Explorando a Interseção Entre Tecnologia, Arte e Escrita 💻🎨📚
+# Fran Camargo - Exploring the Intersection Between Technology, Art, and Writing 💻🎨📚
 
-**Oi, seja bem-vindo(a)!**  
-Eu sou a **Fran Camargo**, alguém que sempre seguiu a curiosidade e a vontade de aprender. Minha jornada é uma mistura de tecnologia, arte e escrita – três paixões que moldaram quem sou e o que faço.
+**Hello there, welcome!**  
+I’m **Fran Camargo**, someone who has always followed curiosity and the desire to learn. My journey is a blend of technology, art, and writing—three passions that have shaped who I am and what I do.
 
-### 👩‍💻 Tecnologia: Onde Tudo Começou  
-Eu estava cursando **Análise e Desenvolvimento de Sistemas** quando a vida me apresentou uma oportunidade inesperada: uma oferta de bolsa e uma promoção no trabalho. Decidi trancar a faculdade no quarto semestre para me formar em **Comércio Exterior** e abraçar essa chance. Mas o chamado da tecnologia sempre esteve comigo, e agora estou focada em voltar para esse mundo, estudando **Java**, além de já ter um breve conhecimento em **Python, C#** e **HTML5/CSS**.
+### 👩‍💻 Technology: Where It All Began  
+I was studying **Systems Analysis and Development** when life presented me with an unexpected opportunity: a scholarship offer and a job promotion. I decided to pause my studies in the fourth semester to graduate in **International Trade** and embrace this chance. But the call of technology has always been with me, and now I’m focused on returning to this world, studying **Java**, while already having some knowledge in **Python, C#**, and **HTML5/CSS**.
 
-### 📚 Paixão por Escrever  
-Entre códigos e projetos, descobri outra paixão: escrever. Tenho **mais de 30 livros publicados**, tanto digitais quanto físicos, onde compartilho reflexões sobre desenvolvimento pessoal, gestão e um pouco de tudo que aprendi ao longo da vida. Escrever é como uma conversa, e cada livro que crio é uma chance de inspirar alguém.
+### 📚 Passion for Writing  
+Between codes and projects, I discovered another passion: writing. I have **over 30 published books**, both digital and physical, where I share reflections on personal development, management, and a bit of everything I’ve learned throughout life. Writing feels like a conversation, and each book I create is a chance to inspire someone.
 
-### 🎨 Criatividade em Movimento  
-A arte digital também faz parte da minha jornada. Crio e vendo **mais de 130 artes digitais** em galerias por todo o Brasil. Para mim, a arte é uma forma de expressão que complementa tudo o que faço, seja no código ou na escrita.
+### 🎨 Creativity in Motion  
+Digital art is also part of my journey. I create and sell **over 130 digital artworks** in galleries across Brazil. For me, art is a form of expression that complements everything I do, whether in code or writing.
 
-### 🌍 Três Idiomas, Muitos Mundos  
-Eu falo **português**, **inglês** e **espanhol**, o que me ajuda a explorar ideias e colaborar com pessoas de diferentes partes do mundo. Seja em um código, uma obra de arte ou um texto, adoro descobrir novas maneiras de me comunicar e aprender.
+### 🌍 Three Languages, Many Worlds  
+I speak **Portuguese**, **English**, and **Spanish**, which helps me explore ideas and collaborate with people from different parts of the world. Whether through code, a work of art, or a text, I love discovering new ways to communicate and learn.
 
-### 🔗 Vamos Conversar?  
-Curte tecnologia, arte ou boas conversas? Vamos trocar ideias! Estou sempre aberta para novos projetos e colaborações. 😊
+### 🔗 Shall We Chat?  
+Do you like technology, art, or good conversations? Let’s exchange ideas! I’m always open to new projects and collaborations. 😊
