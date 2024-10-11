@@ -4,7 +4,7 @@
 I’m **Fran Camargo**, someone who has always followed curiosity and the desire to learn. My journey is a blend of technology, art, and writing—three passions that have shaped who I am and what I do.
 
 ### 👩‍💻 Technology: Where It All Began  
-I was studying **Systems Analysis and Development** when life presented me with an unexpected opportunity: a scholarship offer and a job promotion. I decided to pause my studies in the fourth semester to graduate in **International Trade** and embrace this chance. But the call of technology has always been with me, and now I’m focused on returning to this world, studying **Java**, while already having some knowledge in **Python, C#**, and **HTML5/CSS**.
+I was studying **Systems Analysis and Development** when life presented me with an unexpected opportunity: a scholarship offer and a job promotion. I decided to pause my studies in the fourth semester to graduate in **International Trade** and embrace this chance. But the call of technology has always been with me, and now I’m focused on returning to this world, studying **Java**. I also already have some knowledge in **Python, C#**, and **HTML5/CSS**.
 
 ### 📚 Passion for Writing  
 Between codes and projects, I discovered another passion: writing. I have **over 30 published books**, both digital and physical, where I share reflections on personal development, management, and a bit of everything I’ve learned throughout life. Writing feels like a conversation, and each book I create is a chance to inspire someone.
