@@ -1,18 +1,18 @@
+# Hello there, welcome!
 
-**Hello there, welcome!**  
-I’m **Fran Camargo**, someone who has always followed curiosity and the desire to learn. My journey is a blend of technology, art, and writing—three passions that have shaped who I am and what I do.
+I’m **Fran Camargo**, a curious learner with a passion for **technology**, **art**, and **writing**.
 
-### 👩‍💻 Technology: Where It All Began  
-I was studying **Systems Analysis and Development** when life presented me with an unexpected opportunity: a scholarship offer and a job promotion. I decided to pause my studies in the fourth semester to graduate in **International Trade** and embrace this chance. But the call of technology has always been with me, and now I’m focused on returning to this world, studying **Java**. I also already have some knowledge in **Python, C#**, and **HTML5/CSS**.
+## 👩‍💻 Technology
+I started studying Systems Analysis and Development but paused my studies to pursue a scholarship and job promotion in **International Trade**. Now, I’m returning to tech, focusing on **Java**. I also have knowledge in **Python**, **C#**, and **HTML5/CSS**.
 
-### 📚 Passion for Writing  
-Between codes and projects, I discovered another passion: writing. I have **over 30 published books**, both digital and physical, where I share reflections on personal development, management, and a bit of everything I’ve learned throughout life. Writing feels like a conversation, and each book I create is a chance to inspire someone.
+## 📚 Writing Passion
+I’ve published over **30 books**, sharing insights on personal development and management. Writing is my way of inspiring others through shared experiences.
 
-### 🎨 Creativity in Motion  
-Digital art is also part of my journey. I create and sell **over 130 digital artworks** in galleries across Brazil. For me, art is a form of expression that complements everything I do, whether in code or writing.
+## 🎨 Creativity
+I create and sell over **130 digital artworks** in galleries across Brazil. Art is my form of expression, complementing my coding and writing endeavors.
 
-### 🌍 Three Languages, Many Worlds  
-I speak **Portuguese**, **English**, and **Spanish**, which helps me explore ideas and collaborate with people from different parts of the world. Whether through code, a work of art, or a text, I love discovering new ways to communicate and learn.
+## 🌍 Multilingual
+I speak **Portuguese**, **English**, and **Spanish**, which helps me connect with people worldwide and explore diverse ideas.
 
-### 🔗 Shall We Chat?  
-Do you like technology, art, or good conversations? Let’s exchange ideas! I’m always open to new projects and collaborations. 😊
+## 🔗 Let’s Connect!
+If you’re interested in technology, art, or simply having a good conversation, I’m open to new projects and collaborations! 😊
