@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/SEU_USUARIO/FranCamargo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Fran_Camargo/Fran_Camargo/blob/output/github-contribution-grid-snake.svg)
 
 # Fran Camargo - Exploring the Intersection Between Technology, Art, and Writing 💻🎨📚
 
