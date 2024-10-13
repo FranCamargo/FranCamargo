@@ -1,6 +1,5 @@
 ![Snake animation](https://github.com/FranCamargo/FranCamargo/blob/output/github-contribution-grid-snake.svg)
 
-# Fran Camargo - Exploring the Intersection Between Technology, Art, and Writing 💻🎨📚
 
 **Hello there, welcome!**  
 I’m **Fran Camargo**, someone who has always followed curiosity and the desire to learn. My journey is a blend of technology, art, and writing—three passions that have shaped who I am and what I do.
