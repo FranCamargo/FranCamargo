@@ -1,7 +1,7 @@
 # Hello there, welcome!
 
 I’m **Fran Camargo**, a curious learner with a passion for **technology**, **art**, and **writing**.  
-Check my resumé in Portuguese-BR [here](https://francamargo.github.io/Resume_FranCamargo/).
+Check my full resumé in Portuguese-BR [here](https://francamargo.github.io/Resume_FranCamargo/).
 
 ## 👩‍💻 Technology
 I started studying Systems Analysis and Development but paused my studies to pursue a scholarship and job promotion in **International Trade** in 2019. Now, I’m returning to tech, focusing on **Java**. I also have knowledge in **Python**, **C#**, and **HTML5/CSS**.  
