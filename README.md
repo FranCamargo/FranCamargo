@@ -11,7 +11,7 @@ Along with my degree in International Trade, I hold an **MBA in Project Manageme
 I’ve published over **30 books**, sharing insights on personal development and management. Writing is my way of inspiring others through shared experiences.
 
 ## 🎨 Creativity
-I create and sell over **130 digital artworks** in galleries across Brazil. Art is my form of expression, complementing my coding and writing endeavors.
+I create and sell over **130 digital artworks** in galleries across Brazil and artprints around the world. Art is my form of expression, complementing my coding and writing endeavors.
 
 ## 🌍 Multilingual
 I speak **Portuguese**, **English**, and **Spanish**, which helps me connect with people worldwide and explore diverse ideas.
