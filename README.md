@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" alt="Kitty walking" width="100">
+  <img src="[https://github.com/FranCamargo/FranCamargo/blob/main/anima%C3%A7%C3%A3o%20teste_QUADRADO_120x120.mp4]" alt="Salém, my cat" width="100">
 </div>
 
 <div align="center">
