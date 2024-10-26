@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="[https://github.com/FranCamargo/FranCamargo/blob/main/anima%C3%A7%C3%A3o%20teste_QUADRADO_120x120.mp4]" alt="Salém, my cat" width="100">
+  <img src="https://github.com/FranCamargo/FranCamargo/blob/main/Design%20sem%20nome.gif?raw=true" alt="Salem, the Cat" width="150">
 </div>
 
 <div align="center">
