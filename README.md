@@ -5,7 +5,7 @@
   </p>
 
   <p>
-    My journey in tech started in 2017 with <strong>Systems Analysis and Development</strong>, which I paused in 2019 to pursue a scholarship and job promotion in <strong>Foreign Trade</strong>. Now, I’m back in tech, diving into <strong>Java</strong> and <strong>Web Development</strong> and building on my experience in <strong>JavaScript, Python, C#, and HTML/CSS</strong>.
+    My journey in tech started in 2017 studying <strong>Systems Analysis and Development</strong>, which I paused in 2019 to pursue a scholarship and job promotion in <strong>Foreign Trade</strong>. Now, I’m back in tech, diving into <strong>Java</strong> and <strong>Web Development</strong> and building on my experience in <strong>JavaScript, Python, C#, and HTML/CSS</strong>.
   </p>
 
   <p>
