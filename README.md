@@ -21,7 +21,5 @@ If you’re interested in technology, art, or simply having a good conversation,
 
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visitas" alt="Visitantes" width="200">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visitas&color=9b59b6&labelColor=ffffff" alt="Visitantes" width="200">
 </div>
-
-
