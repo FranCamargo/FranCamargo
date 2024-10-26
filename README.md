@@ -1,15 +1,21 @@
-<div align="start">
+<div align="center">
   <h1>👋 Hello there, welcome!</h1>
   <p>
-    I’m <strong>Fran Camargo</strong>, a curious learner driven by a love for <span style="color:#1e90ff;">technology</span>, <span style="color:#ff6347;">art</span>, and <span style="color:#32cd32;">writing</span>. 
-    My journey in tech started in 2017 studying <strong>Systems Analysis and Development</strong>, but paused my studies to pursue a scholarship and job promotion in <strong>Foreign Trade<strong> in 2019. I’m back in tech now,
-    diving deep into <strong>Java</strong> and <strong>Web Development</strong>. I already have knowledge in  <strong> JavaScript, Python, C#, and HTML/CSS</strong> and also speak <strong>Portuguese</strong>, 
-<strong>English</strong>, and <strong>Spanish</strong> what allows me to connect with people worldwide and embrace diverse perspectives.  </p>
+    I’m <strong>Fran Camargo</strong>, a curious learner passionate about <span style="color:#1e90ff;">technology</span>, <span style="color:#ff6347;">art</span>, and <span style="color:#32cd32;">writing</span>.
+  </p>
 
-<p>
-I am a person who loves to find new businesses and innovate, so you will probably find books and art that I have created somewhere on the internet one day.
-I love to write and create art in my spare time, I have published more than <strong>30 books</strong> about personal development and management, hoping to inspire and empower others. And my digital art is also being presented in galleries throughout Brazil and printed on some products such as t-shirts, caps, mugs, books, decoration and more.
-</p>
+  <p>
+    My journey in tech started in 2017 with <strong>Systems Analysis and Development</strong>, which I paused in 2019 to pursue a scholarship and job promotion in <strong>Foreign Trade</strong>. Now, I’m back in tech, diving into <strong>Java</strong> and <strong>Web Development</strong> and building on my experience in <strong>JavaScript, Python, C#, and HTML/CSS</strong>.
+  </p>
+
+  <p>
+    I’m fluent in <strong>Portuguese</strong>, <strong>English</strong>, and <strong>Spanish</strong>, allowing me to connect with people worldwide and embrace diverse perspectives.
+  </p>
+
+  <p>
+    I’m also an avid creator. You may come across my books or digital art online someday! With over <strong>30 books</strong> published on personal development and management, my writing is a way to inspire and empower others. My digital artwork is displayed in galleries across Brazil and appears on products like t-shirts, caps, mugs, and home decor.
+  </p>
+</div>
 
 </div>
 
