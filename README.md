@@ -20,5 +20,8 @@ I speak **Portuguese**, **English**, and **Spanish**, which helps me connect wit
 If you’re interested in technology, art, or simply having a good conversation, I’m open to new projects and collaborations! 😊
 
 
-![Visitantes](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visitas)
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visitas" alt="Visitantes" width="200">
+</div>
+
 
