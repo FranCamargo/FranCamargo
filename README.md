@@ -2,11 +2,14 @@
   <h1>👋 Hello there, welcome!</h1>
   <p>
     I’m <strong>Fran Camargo</strong>, a curious learner driven by a love for <span style="color:#1e90ff;">technology</span>, <span style="color:#ff6347;">art</span>, and <span style="color:#32cd32;">writing</span>. My journey started in <strong>Systems Analysis and Development</strong>, but a scholarship led me to pivot into <strong>International Trade</strong> in 2019. Today, I’m back in tech now, diving deep into <strong>Java</strong> and <strong>Web Development</strong>. I already have knowledge in  <strong> JavaScript, Python, C#, and HTML/CSS</strong>.
+    I also speak <strong>Portuguese</strong>, <strong>English</strong>, and <strong>Spanish</strong> what allows me to connect with people worldwide and embrace diverse perspectives.
   </p>
 
-  <p>
-    Writing is a passion, with over <strong>30 books</strong> published on personal development and management. I also express myself through art, selling over <strong>130 digital artworks</strong> in galleries across Brazil and beyond. Being fluent in <strong>Portuguese</strong>, <strong>English</strong>, and <strong>Spanish</strong> helps me connect with diverse audiences and ideas.
-  </p>
+<p>
+I am a person who loves to find new businesses and innovate, so you will probably find books and art that I have created somewhere on the internet one day.
+I love to write and create art in my spare time, I have published more than <strong>30 books</strong> about personal development and management, hoping to inspire and empower others. And my digital art is also being presented in galleries throughout Brazil and printed on some products such as t-shirts, caps, mugs, books, decoration and more.
+</p>
+
 </div>
 
 <div align="center">
