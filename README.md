@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hello there, welcome!</h1>
   <p>
-    I’m <strong>Fran Camargo</strong>, a curious learner passionate about <span style="color:#1e90ff;">technology</span>, <span style="color:#ff6347;">art</span>, and <span style="color:#32cd32;">writing</span>.
+    I’m <strong>Fran Camargo</strong> :)
   </p>
 
   <p>
