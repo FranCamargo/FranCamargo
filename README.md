@@ -18,3 +18,7 @@ I speak **Portuguese**, **English**, and **Spanish**, which helps me connect wit
 
 ## 🔗 Let’s Connect!
 If you’re interested in technology, art, or simply having a good conversation, I’m open to new projects and collaborations! 😊
+
+
+![Visitantes](https://img.shields.io/badge/dynamic/json?color=green&label=Visitas&query=value&url=https://api.countapi.xyz/hit/FranCamargo.FranCamargo/visitas)
+
