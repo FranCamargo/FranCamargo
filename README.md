@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hello there, welcome!</h1>
   <p>
-    I’m <strong>Fran Camargo</strong>, a curious learner driven by a love for <span style="color:#1e90ff;">technology</span>, <span style="color:#ff6347;">art</span>, and <span style="color:#32cd32;">writing</span>. My journey started in <strong>Systems Analysis and Development</strong>, but a scholarship led me to pivot into <strong>International Trade</strong> in 2019. Today, I’m back in tech, diving deep into <strong>Java</strong> while building on my knowledge of <strong>Python, C#, and HTML/CSS</strong>.
+    I’m <strong>Fran Camargo</strong>, a curious learner driven by a love for <span style="color:#1e90ff;">technology</span>, <span style="color:#ff6347;">art</span>, and <span style="color:#32cd32;">writing</span>. My journey started in <strong>Systems Analysis and Development</strong>, but a scholarship led me to pivot into <strong>International Trade</strong> in 2019. Today, I’m back in tech now, diving deep into <strong>Java</strong> and <strong>Web Development</strong>. I already have knowledge in  <strong> JavaScript, Python, C#, and HTML/CSS</strong>.
   </p>
 
   <p>
@@ -22,7 +22,6 @@
 ---
 
 <div align="center">
-  <p><strong>🐾 Watch the kitty stroll by!</strong></p>
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" alt="Kitty walking" width="100">
 </div>
 
