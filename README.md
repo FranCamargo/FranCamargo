@@ -18,23 +18,14 @@ I love to write and create art in my spare time, I have published more than <str
 ---
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visitas&color=9b59b6&labelColor=ffffff" alt="Visitantes" width="200">
-</div>
-
----
-
-<div align="center">
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" alt="Kitty walking" width="100">
 </div>
 
----
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visitas&color=9b59b6&labelColor=ffffff" alt="Visitantes" width="200">
+</div>
+
 
 <div align="center">
   <p>If you’re into tech, art, or just want a good conversation, feel free to reach out! 😊</p>
-  <a href="https://github.com/FranCamargo" target="_blank">
-    <img src="https://img.shields.io/github/followers/FranCamargo?style=social" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/francamargo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
-  </a>
 </div>
