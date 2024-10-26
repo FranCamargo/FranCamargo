@@ -1,26 +1,39 @@
-# Hello there, welcome!
+<div align="center">
+  <h1>👋 Hello there, welcome!</h1>
+  <p>
+    I’m <strong>Fran Camargo</strong>, a curious learner driven by a love for <span style="color:#1e90ff;">technology</span>, <span style="color:#ff6347;">art</span>, and <span style="color:#32cd32;">writing</span>. My journey started in <strong>Systems Analysis and Development</strong>, but a scholarship led me to pivot into <strong>International Trade</strong> in 2019. Today, I’m back in tech, diving deep into <strong>Java</strong> while building on my knowledge of <strong>Python, C#, and HTML/CSS</strong>.
+  </p>
 
-I’m **Fran Camargo**, a curious learner with a passion for **technology**, **art**, and **writing**.  
-**Check my full resumé [here](https://francamargo.github.io/Resume_FranCamargo/) (content in Pt-Br, use browser support for other languages).**
-
-## 👩‍💻 Technology
-I started studying Systems Analysis and Development but paused my studies to pursue a scholarship and job promotion in **International Trade** in 2019. Now, I’m returning to tech, focusing on **Java**. I also have knowledge in **Python**, **C#**, and **HTML5/CSS**.  
-Along with my degree in International Trade, I hold an **MBA in Project Management** and have just completed a **second postgraduate course in Technology Management**.
-
-## 📚 Writing Passion
-I’ve published over **30 books**, sharing insights on personal development and management. Writing is my way of inspiring others through shared experiences.
-
-## 🎨 Creativity
-I create and sell over **130 digital artworks** in galleries across Brazil and artprints around the world. Art is my form of expression, complementing my coding and writing endeavors.
-
-## 🌍 Multilingual
-I speak **Portuguese**, **English**, and **Spanish**, which helps me connect with people worldwide and explore diverse ideas.
-
-## 🔗 Let’s Connect!
-If you’re interested in technology, art, or simply having a good conversation, I’m open to new projects and collaborations! 😊
+  <p>
+    Writing is a passion, with over <strong>30 books</strong> published on personal development and management. I also express myself through art, selling over <strong>130 digital artworks</strong> in galleries across Brazil and beyond. Being fluent in <strong>Portuguese</strong>, <strong>English</strong>, and <strong>Spanish</strong> helps me connect with diverse audiences and ideas.
+  </p>
+</div>
 
 <div align="center">
-  
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visitas" alt="Visitantes" width="150">
- 
-</div
+  <p><a href="https://francamargo.github.io/Resume_FranCamargo/" target="_blank">🌐 Check my full resumé</a> (content in Pt-Br, use browser support for other languages).</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visitas&color=9b59b6&labelColor=ffffff" alt="Visitantes" width="200">
+</div>
+
+---
+
+<div align="center">
+  <p><strong>🐾 Watch the kitty stroll by!</strong></p>
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" alt="Kitty walking" width="100">
+</div>
+
+---
+
+<div align="center">
+  <p>If you’re into tech, art, or just want a good conversation, feel free to reach out! 😊</p>
+  <a href="https://github.com/FranCamargo" target="_blank">
+    <img src="https://img.shields.io/github/followers/FranCamargo?style=social" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/francamargo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
