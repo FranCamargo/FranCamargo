@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visitas&color=9b59b6&labelColor=ffffff" alt="Visitantes" width="150">
+  <img <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Visits&color=9b59b6&labelColor=ffffff" alt="Visitantes" width="150">
 </div>
 
 
