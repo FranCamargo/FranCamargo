@@ -25,7 +25,7 @@
 
 ---
 
-<div align="center">
+<div align="center"
   <img src="https://github.com/FranCamargo/FranCamargo/blob/main/Design%20sem%20nome.gif?raw=true" alt="Salem, the Cat" width="150">
 </div>
 
@@ -33,7 +33,7 @@
   <img <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Views&color=9b59b6&labelColor=ffffff" alt="Views" width="150">
 </div>
 
-
-<div align="center">
-  <p>If you’re into tech, art, or just want a good conversation, feel free to reach out! 😊</p>
-</div>
+<footer>
+  <div align="center">
+  <p> This animation was made by myself using Krita. All rights reserved.😊</p>
+</footer>
