@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <p><a href="https://francamargo.github.io/Resume_FranCamargo/" target="_blank">🌐 Check my full resumé</a> (content in Pt-Br, use browser support for other languages).</p>
+  <p><a href="https://francamargo.github.io/Resume_FranCamargo/" target="_blank">🌐 Check my full resumé</a> (content in Pt-Br, please use browser support for other languages).</p>
 </div>
 
 ---
