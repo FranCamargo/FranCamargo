@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    I’m fluent in <strong>Portuguese</strong>, <strong>English</strong>, and <strong>Spanish</strong>, allowing me to connect with people worldwide and embrace diverse perspectives.
+    I’m fluent in <strong>Portuguese</strong>, <strong>English</strong>, and <strong>Spanish</strong>, which allows me to connect with people worldwide and embrace diverse perspectives.
   </p>
 
   <p>
