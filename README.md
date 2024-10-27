@@ -33,8 +33,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Views&color=9b59b6&labelColor=ffffff" alt="Views" width="150">
 </div>
 
-<footer>
-<div align="center">
-  <p> This animation was made by myself using Krita. All rights reserved.😊</p>
-</div>
-</footer>
+<p style="font-size: 10px; color: #9b59b6; text-align: center;">
+  All content in this repository is protected and available for viewing only. © 2024 Franciely Camargo
+</p>
+
