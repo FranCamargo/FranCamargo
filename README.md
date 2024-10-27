@@ -35,6 +35,6 @@
 
 <div align="center">
 <p style=font-size: 10px; color: #9b59b6; text-align: center;>
-  All content in this repository is protected and available for viewing only. © 2024 Franciely Camargo
+  All content in this profile is protected and available for viewing only. © 2024 Franciely Camargo
 </p>
 <div>
