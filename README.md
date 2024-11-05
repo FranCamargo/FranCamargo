@@ -1,5 +1,6 @@
 <div align="center">
   <h1>👋 Hello there, welcome!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranCamargo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="https://github.com/FranCamargo/FranCamargo/blob/main/Design%20sem%20nome.gif?raw=true" alt="Salem, the Cat" width="150">
