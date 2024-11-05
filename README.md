@@ -1,14 +1,5 @@
 <div align="center">
   <h1>👋 Hello there, welcome!
-  </p>
-</div>
-![Fran Camargo's GitHub stats](https://github-readme-stats.vercel.app/api?username=francamargo&show_icons=true&theme=radical)
-</div>
-
-<div align="center">
-  <p><a href="https://francamargo.github.io/NewCV/home.html" target="_blank">🌐 Check my full resumé</a> (content in Pt-Br, please use browser support for other languages).</p>
-</div>
-
 ---
 
 <div align="center">
