@@ -1,14 +1,10 @@
-<div align="center">    
-  
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranCamargo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Check my full Resumé](https://img.shields.io/badge/Check%20my%20full%20Resumé-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://francamargo.github.io/NewCV/home.html)
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Views&color=9b59b6&labelColor=ffffff" alt="Views" width="150">
+
 </div>
-<a href="https://francamargo.github.io/NewCV/home.html" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        Full Resume here (Pt-br)
-    </button>
-</a>
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FranCamargo/FranCamargo&title=Views&color=9b59b6&labelColor=ffffff" alt="Views" width="150">
-</div>
-<div>
+
