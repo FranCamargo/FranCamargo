@@ -1,22 +1,8 @@
 <div align="center">
-  <h1>👋 Hello there, welcome!</h1>
-  <p>
-    I’m <strong>Fran Camargo</strong> :)
-  </p>
-
-  <p>
-    My journey in tech started in 2017 studying <strong>Systems Analysis and Development</strong>, which I paused in 2019 to pursue a scholarship and job promotion opportunity in <strong>Foreign Trade</strong>. Now, I’m back in tech, diving into <strong>Java</strong> and <strong>Web Development</strong> and building on my experience in <strong>JavaScript, Python, C#, and HTML/CSS</strong>.
-  </p>
-
-  <p>
-    I’m fluent in <strong>Portuguese</strong>, <strong>English</strong>, and <strong>Spanish</strong>, which allows me to connect with people worldwide and embrace diverse perspectives.
-  </p>
-
-  <p>
-    I’m also an avid creator. You may come across my books or digital art online someday! With over <strong>30 books</strong> published on personal development and management, my writing is a way to inspire and empower others. My digital artwork is displayed in galleries across Brazil and appears on products like t-shirts, caps, mugs, and home decor.
+  <h1>👋 Hello there, welcome!
   </p>
 </div>
-
+![Fran Camargo's GitHub stats](https://github-readme-stats.vercel.app/api?username=francamargo&show_icons=true&theme=radical)
 </div>
 
 <div align="center">
