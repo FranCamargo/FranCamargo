@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hello there, welcome!
----
 
 <div align="center">
   <img src="https://github.com/FranCamargo/FranCamargo/blob/main/Design%20sem%20nome.gif?raw=true" alt="Salem, the Cat" width="150">
