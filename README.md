@@ -1,14 +1,23 @@
+
 <div align="center">
-Olá, meu nome é Fran!
 
-Sou pós-graduada em Gestão de Tecnologia e com MBA em Gestão de Projetos, e tenho uma base acadêmica sólida aliada à experiência prática pessoal e profissional em desenvolvimento de software.
-Sou fluente em inglês, espanhol e português (idioma nativo) e histórico profissional trabalhando com liderança e em colaboração com equipes nacionais, internacionais e multifuncionais.
-Como Desenvolvedora contribuí para projetos com foco em IA Generativa, utilizando linguagens como Python, Javascript, Typescript e frameworks Angular, React, Node.js e Flask. 
-Atualmente, estou aprofundando meus conhecimentos em design de UI/UX, com foco em Figma e outras ferramentas de design, como parte do meu compromisso com o aprendizado contínuo e o desenvolvimento profissional.
-Sou apaixonada por ambientes que valorizam a liberdade criativa e me permitem projetar aplicações e interfaces intuitivas que gerem impacto positivo e significativo para os usuários.
+# 👋 Olá! Eu sou a Fran  
 
-Estou meio ausente por aqui devido a estar trabalhando muito esses últimos anos!! 
-Se conecte comigo através do Linkedin https://www.linkedin.com/in/francamargodev/ ;)
+Sou pós-graduada em **Gestão de Tecnologia** e também possuo um **MBA em Gestão de Projetos**. Minha formação acadêmica é complementada por experiência prática, tanto pessoal quanto profissional, em **desenvolvimento de software**.
+
+Sou fluente em **inglês**, **espanhol** e **português (nativo)**, e já atuei colaborando com equipes **multifuncionais**, **internacionais** e em projetos com forte componente de **liderança**.
+
+Como Desenvolvedora, contribuí para soluções com foco em **IA Generativa**, utilizando linguagens como **Python**, **JavaScript**, **TypeScript** e frameworks como **Angular**, **React**, **Node.js** e **Flask**.
+
+Atualmente, estou aprofundando meus conhecimentos em **UI/UX Design**, explorando ferramentas como **Figma** e outras plataformas voltadas para design de interfaces — parte do meu compromisso contínuo com evolução profissional e aprendizado constante.
+
+Sou apaixonada por ambientes que valorizam **liberdade criativa** e me permitem projetar experiências e interfaces intuitivas, capazes de gerar impacto positivo e significativo para usuários reais.
+
+✨ Estou um pouco ausente por aqui porque tenho trabalhado bastante nos últimos anos — mas sigo construindo, estudando e evoluindo sempre!
+
+📎 **Vamos nos conectar?**  
+
+www.linkedin.com/in/francamargodev/
 
 </div>
 
