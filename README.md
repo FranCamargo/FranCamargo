@@ -3,7 +3,7 @@
 
 # 👋 Olá! Eu sou a Fran  
 
-Sou pós-graduada em **Gestão de Tecnologia** e também possuo um **MBA em Gestão de Projetos**. Minha formação acadêmica é complementada por experiência prática, tanto pessoal quanto profissional, em **desenvolvimento de software**.
+Sou pós-graduada em **Gestão de Tecnologia** e também possuo um **MBA em Gestão de Projetos**. Minha formação acadêmica é complementada por experiência prática, tanto pessoal quanto profissional, em **desenvolvimento de software, com foco em Front End**.
 
 Sou fluente em **inglês**, **espanhol** e **português (nativo)**, e já atuei colaborando com equipes **multifuncionais**, **internacionais** e em projetos com forte componente de **liderança**.
 
