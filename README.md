@@ -9,7 +9,7 @@ Sou fluente em **inglês**, **espanhol** e **português (nativo)**, e já atuei 
 
 Como Desenvolvedora, contribuí para soluções com foco em **IA Generativa**, utilizando linguagens como **Python**, **JavaScript**, **TypeScript** e frameworks como **Angular**, **React**, **Node.js** e **Flask**.
 
-Atualmente, estou aprofundando meus conhecimentos em **UI/UX Design**, explorando ferramentas como **Figma** e outras plataformas voltadas para design de interfaces — parte do meu compromisso contínuo com evolução profissional e aprendizado constante.
+Atualmente, estou aprofundando meus conhecimentos em **React Native**, explorando ferramentas como **Android Studio** e outras plataformas voltadas para design mobile — parte do meu compromisso contínuo com evolução profissional e aprendizado constante.
 
 Sou apaixonada por ambientes que valorizam **liberdade criativa** e me permitem projetar experiências e interfaces intuitivas, capazes de gerar impacto positivo e significativo para usuários reais.
 
