@@ -7,11 +7,10 @@ Sou pós-graduada em **Gestão de Tecnologia** e também possuo um **MBA em Gest
 
 Sou fluente em **inglês**, **espanhol** e **português (nativo)**, e já atuei colaborando com equipes **multifuncionais**, **internacionais** e em projetos com forte componente de **liderança**.
 
-Como Desenvolvedora, contribuí para soluções com foco em **IA Generativa**, utilizando linguagens como **Python**, **JavaScript**, **TypeScript** e frameworks como **Angular**, **React**, **Node.js** e **Flask**.
+Sou desenvolvedora Front-End especializada em Angular, com forte atuação em UI/UX, arquitetura de interfaces modernas e modernização de aplicações enterprise. Experiência em projetos corporativos de grande escala, envolvendo Angular, React, IA, dashboards, gestão documental, migração de sistemas legados e padronização arquitetural.
 
-Atualmente, estou aprofundando meus conhecimentos em **React Native**, explorando ferramentas como **Android Studio** e outras plataformas voltadas para design mobile — parte do meu compromisso contínuo com evolução profissional e aprendizado constante.
-
-Sou apaixonada por ambientes que valorizam **liberdade criativa** e me permitem projetar experiências e interfaces intuitivas, capazes de gerar impacto positivo e significativo para usuários reais.
+#Competências Técnicas
+Angular (14 ao 21), React, TypeScript, JavaScript, Angular Material, Tailwind CSS, RxJS, APIs REST, WordPress, Figma, UI/UX, IA Generativa, RAG, Bitbucket, Bamboo, SonarQube, Jira e Confluence.
 
 ✨ Estou um pouco ausente por aqui porque tenho trabalhado bastante nos últimos anos — mas sigo construindo, estudando e evoluindo sempre!
 
